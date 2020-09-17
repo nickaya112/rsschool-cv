@@ -12,6 +12,7 @@ Development Software: Git;
 Technologies:  multiple JavaScript frameworks;
 Platforms: Windows;
 ###### 5. Code examples ######
+[https://github.com/NickitaSolovei/zero](https://github.com/NickitaSolovei/zeros) Zeros, [https://github.com/NickitaSolovei/Money-Exchange](https://github.com/NickitaSolovei/Money-Exchange)Exchange Money
 ###### 6. Work Experience ######
 Unfortunately I have no programming experience, but I have a great desire to study and get a job in your organization
 ###### 7. Education ######
